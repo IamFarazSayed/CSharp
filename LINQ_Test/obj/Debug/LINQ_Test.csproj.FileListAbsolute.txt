@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\bin\Debug\LINQ_Test.exe.config
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\bin\Debug\LINQ_Test.exe
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\bin\Debug\LINQ_Test.pdb
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\obj\Debug\LINQ_Test.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\obj\Debug\LINQ_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\obj\Debug\LINQ_Test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\obj\Debug\LINQ_Test.exe
+C:\Users\ADMIN\Desktop\Nerve Practice\LINQ_Test\LINQ_Test\obj\Debug\LINQ_Test.pdb
